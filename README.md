@@ -1,4 +1,4 @@
-﻿# DL Assignment 2: Neural Networks, CNNs, and VGG-13
+﻿# DL: Neural Networks, CNNs, and VGG-13
 
 A set of Jupyter notebooks that build from a basic neural network to a convolutional neural network and a VGG‑13 implementation, including optimization techniques and experiments.
 
